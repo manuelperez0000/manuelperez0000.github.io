@@ -1,0 +1,32 @@
+.background-img{
+    background-image: url(../assets/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+
+}
+.bg-black{
+    background-color:rgb(34, 32, 32);
+}
+.bg-black2{
+    background-color:rgb(22, 21, 19);
+}
+.conn{
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.trans{
+    background-color:rgba(255, 255, 255, 0.795);
+}
+.trans2{
+    background-color:rgba(255, 255, 255, 0);
+}
+.Mined{
+    color:rgb(95, 95, 95);
+}
+.border-radius{
+    border-radius: 5px;
+}
