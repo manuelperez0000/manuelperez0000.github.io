@@ -1,5 +1,5 @@
 .background-img{
-    background-image: url(../assets/background.jpg);
+    background-image: url(../assets/back.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,18 +15,27 @@
 }
 .conn{
     border-radius: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .trans{
     background-color:rgba(255, 255, 255, 0.795);
 }
 .trans2{
-    background-color:rgba(255, 255, 255, 0);
+    background-color:rgba(255, 0, 0, 0);
 }
 .Mined{
     color:rgb(95, 95, 95);
 }
 .border-radius{
     border-radius: 5px;
+}
+.bg-trans{
+    background-color: rgba(27, 27, 27, 0.452);
+}
+.bg-ef{
+    background-color: rgba(255, 0, 0, 0);
+}
+.bg-light-t{
+    background-color: rgba(224, 219, 214, 0.842);
 }
